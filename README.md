@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Phongpanot Phumphua
 ===========================================================================================================================================
 
-Developer
+Junior Developer
 ---------
 
 I am a fresh graduate Computer Engineering, currently studying JavaScript, TypeScript, with a strong interest in React Developer, would like to work better.
