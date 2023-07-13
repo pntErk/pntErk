@@ -8,7 +8,7 @@ I am a fresh graduate Computer Engineering, currently studying JavaScript, TypeS
 
 * 🌍  I'm based in Chumphon, Thailand
 * ✉️  You can contact me at [Phongpanot9761@gmail.com](mailto:Phongpanot9761@gmail.com)
-* 🧠  I'm learning React Framework 
+* 🧠  I'm learning MERN Stack
 * 🤝  I'm open to collaborating on Web & Mobile Application Development
 
 ### Skills
