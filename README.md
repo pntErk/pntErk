@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Junior Developer
 ---------
 
-I am a fresh graduate Computer Engineering, currently studying JavaScript, TypeScript, with a strong interest in React Developer, would like to work better.
+I have a bachelor's degree in Computer engineering, currently studying JavaScript, TypeScript, with a strong interest in Software Engineer, would like to work better.
 
 * 🌍  I'm based in Chumphon, Thailand
 * ✉️  You can contact me at [Phongpanot9761@gmail.com](mailto:Phongpanot9761@gmail.com)
