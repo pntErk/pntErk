@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Phongpanot Phumphua
 ===========================================================================================================================================
 
-Junior Developer
+Software Engineer | Computer Engineering Graduate
 ---------
 
-I have a bachelor's degree in Computer engineering, currently studying JavaScript, TypeScript, with a strong interest in Software Engineer, would like to work better.
+Hello there! I'm a highly motivated and detail-oriented Software Engineer with a Bachelor's degree in Computer Engineering. My passion for programming and problem-solving led me to dive deep into the world of JavaScript and TypeScript. I am constantly seeking opportunities to expand my knowledge and expertise in these cutting-edge technologies.
 
 * 🌍  I'm based in Chumphon, Thailand
 * ✉️  You can contact me at [Phongpanot9761@gmail.com](mailto:Phongpanot9761@gmail.com)
