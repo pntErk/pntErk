@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Phongpanot Phumphua
 ===========================================================================================================================================
 
-Software Engineer | Computer Engineering Graduate
+Developer
 ---------
 
 Hello there! I'm a highly motivated and detail-oriented Software Engineer with a Bachelor's degree in Computer Engineering. My passion for programming and problem-solving led me to dive deep into the world of JavaScript and TypeScript. I am constantly seeking opportunities to expand my knowledge and expertise in these cutting-edge technologies.
