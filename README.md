@@ -8,7 +8,7 @@ Hello there! I'm a highly motivated and detail-oriented Software Engineer with a
 
 * 🌍  I'm based in Chumphon, Thailand
 * ✉️  You can contact me at [Phongpanot9761@gmail.com](mailto:Phongpanot9761@gmail.com)
-* 🧠  I'm learning MERN Stack
+* 🧠  I'm learning NextJS
 * 🤝  I'm open to collaborating on Web & Mobile Application Development
 
 ### Skills
